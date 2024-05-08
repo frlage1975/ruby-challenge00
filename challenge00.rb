@@ -2,9 +2,8 @@
 # Felipe Rodriguez Lage
 
 # Question 3
-# Uncomment to demonstrate Question 3
+# Uncomment the next 2 to demonstrate Question 3
 # puts "Please enter Subtotal"
-
 # sub_total = gets.to_f
 
 # Question 1
